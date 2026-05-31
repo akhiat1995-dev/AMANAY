@@ -58,7 +58,7 @@ export default function Header() {
               }`} style={{ fontFamily: "'Cinzel', 'Playfair Display', serif", textShadow: '0 2px 4px rgba(0,0,0,0.3)' }}>
                 AMANAY
               </span>
-              <img src="/LOGO.png" alt="Logo" className={`object-contain transition-all duration-400 ${
+              <img src="/brand/LOGO.png" alt="Logo" className={`object-contain transition-all duration-400 ${
                 scrolled ? 'h-8 w-8' : 'h-10 w-10'
               }`} />
               <span className={`w-[1px] bg-gray-600 transition-all duration-400 ${

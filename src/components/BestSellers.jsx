@@ -10,7 +10,7 @@ const products = [
     priceColor: '#D4AF37',
     badge: 'Best-Seller',
     badgeBg: '#D4AF37',
-    img: '/A.png',
+    img: '/products/A.png',
   },
   {
     id: 2,
@@ -20,7 +20,7 @@ const products = [
     price: '50 DH',
     priceColor: '#D4AF37',
     badge: null,
-    img: '/B.png',
+    img: '/products/B.png',
   },
   {
     id: 3,
@@ -31,7 +31,7 @@ const products = [
     priceColor: '#C0C0C0',
     badge: 'Nouveau',
     badgeBg: '#C0C0C0',
-    img: '/C.png',
+    img: '/products/C.png',
   },
   {
     id: 4,
@@ -41,7 +41,7 @@ const products = [
     price: '50 DH',
     priceColor: '#D4AF37',
     badge: null,
-    img: '/D.png',
+    img: '/products/D.png',
   },
   {
     id: 5,
@@ -52,7 +52,7 @@ const products = [
     priceColor: '#D4AF37',
     badge: 'Populaire',
     badgeBg: '#D4AF37',
-    img: '/A.png',
+    img: '/products/A.png',
   },
   {
     id: 6,
@@ -62,7 +62,7 @@ const products = [
     price: '50 DH',
     priceColor: '#C0C0C0',
     badge: null,
-    img: '/B.png',
+    img: '/products/B.png',
   },
   {
     id: 7,
@@ -72,7 +72,7 @@ const products = [
     price: '50 DH',
     priceColor: '#D4AF37',
     badge: null,
-    img: '/C.png',
+    img: '/products/C.png',
   },
   {
     id: 8,
@@ -83,7 +83,7 @@ const products = [
     priceColor: '#C0C0C0',
     badge: 'Nouveau',
     badgeBg: '#C0C0C0',
-    img: '/D.png',
+    img: '/products/D.png',
   },
   {
     id: 9,
@@ -93,7 +93,7 @@ const products = [
     price: '50 DH',
     priceColor: '#D4AF37',
     badge: null,
-    img: '/D.png',
+    img: '/products/D.png',
   },
   {
     id: 10,
@@ -104,7 +104,7 @@ const products = [
     priceColor: '#D4AF37',
     badge: 'Nouveau',
     badgeBg: '#D4AF37',
-    img: '/e.jpg',
+    img: '/products/e.jpg',
   },
 ];
 

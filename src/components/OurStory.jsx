@@ -6,13 +6,13 @@ export default function OurStory() {
           <div className="absolute -top-10 -left-10 w-40 h-40 border-t border-l border-[#D4AF37]/40"></div>
           <div className="absolute -bottom-10 -right-10 w-40 h-40 border-b border-r border-[#D4AF37]/20"></div>
           <img
-            src="/ELEGANCE.png"
+            src="/story/ELEGANCE.png"
             className="relative z-10 w-full aspect-[4/5] object-cover brightness-150 contrast-125 opacity-100 hover:brightness-[1.75] hover:contrast-150 transition-all duration-500"
             alt="Notre Histoire"
           />
           <div className="absolute -bottom-6 -right-6 z-20 w-48 h-64 bg-[#111111] p-2 group">
             <img
-              src="/SMALLIMAGE.png"
+              src="/story/SMALLIMAGE.png"
               className="w-full h-full object-cover brightness-90 group-hover:brightness-110 group-hover:shadow-[0_0_20px_rgba(212,175,55,0.5)] transition-all duration-500"
               alt="Parfum"
             />

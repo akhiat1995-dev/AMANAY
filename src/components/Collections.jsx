@@ -60,7 +60,7 @@ export default function Collections() {
 
         <div className="absolute inset-5 overflow-hidden group-hover:scale-105 transition-transform duration-700">
           <img
-            src="/parfum2.png"
+            src="/collections/parfum2.png"
             className="w-full h-full object-cover opacity-100 hover:opacity-100 transition-opacity duration-500 brightness-150 contrast-110"
             alt="Pour Lui"
           />
@@ -141,7 +141,7 @@ export default function Collections() {
 
         <div className="absolute inset-5 overflow-hidden group-hover:scale-105 transition-transform duration-700">
           <img
-            src="/parfum1.jpg"
+            src="/collections/parfum1.jpg"
             className="w-full h-full object-cover opacity-100 hover:opacity-100 transition-opacity duration-500 brightness-110 contrast-110"
             alt="Pour Elle"
           />

@@ -43,7 +43,7 @@ export default function BrandStory() {
           <div className="absolute inset-0 animate-[clipReveal_1.2s_ease-out_0.3s_forwards] origin-left" style={{ clipPath: 'inset(0 100% 0 0)' }}>
             <img
               ref={imgRef}
-              src="/HISTOIREAMANAY.png"
+              src="/story/HISTOIREAMANAY.png"
               className="w-full h-full object-cover brightness-125 contrast-110 will-change-transform"
               alt="L'histoire AMANAY"
             />
@@ -217,7 +217,7 @@ export default function BrandStory() {
           <div className="group relative h-80 overflow-hidden shadow-[0_10px_40px_rgba(0,0,0,0.5)] hover:shadow-[0_15px_60px_rgba(212,175,55,0.15)] transition-shadow duration-500">
             <div className="absolute inset-0 border border-white/[0.06] group-hover:border-[#D4AF37]/30 transition-all duration-500 z-10"></div>
             <img 
-              src="/NOTREVISION.png" 
+              src="/story/NOTREVISION.png" 
               className="w-full h-full object-cover brightness-125 contrast-110 scale-105 group-hover:scale-110 transition-all duration-700"
               alt=""
             />
@@ -231,7 +231,7 @@ export default function BrandStory() {
           <div className="group relative h-80 overflow-hidden shadow-[0_10px_40px_rgba(0,0,0,0.5)] hover:shadow-[0_15px_60px_rgba(212,175,55,0.15)] transition-shadow duration-500">
             <div className="absolute inset-0 border border-white/[0.06] group-hover:border-[#D4AF37]/30 transition-all duration-500 z-10"></div>
             <img 
-              src="/NOTREVISION.png" 
+              src="/story/NOTREVISION.png" 
               className="w-full h-full object-cover brightness-125 contrast-110 scale-105 group-hover:scale-110 transition-all duration-700"
               alt=""
             />
