@@ -1,16 +1,46 @@
-# React + Vite
+# AMANAY Parfums — Site Vitrine
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Site vitrine pour **AMANAY Parfums**, marque de parfumerie de luxe marocaine.
 
-Currently, two official plugins are available:
+## Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **React 19** + **Vite 8** (rolldown)
+- **Tailwind CSS 4**
+- **Iconify** (CDN)
 
-## React Compiler
+## Sections
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| Section | Description |
+|---------|-------------|
+| Hero | Parallax + Typewriter + Particules dorées |
+| Collections | Pour Lui / Pour Elle (dual signatures) |
+| Best-Sellers | Carousel produits, 3D tilt, lightbox, filtres |
+| Testimonials | 10 avis arabes/français, carousel, étoiles animées |
+| Trust | Features + compteurs animés (50K+, 4.9, 24h) |
+| Our Story | L'Élégance Signature |
+| Brand Story | Histoire AMANAY + Vision (zellige, calligraphie) |
+| Footer | Newsletter, contact, réseaux sociaux |
 
-## Expanding the ESLint configuration
+## Développement
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Déploiement Vercel
+
+```bash
+npm i -g vercel
+vercel
+```
+
+---
+
+© 2026 AMANAY PARFUMS — Tous droits réservés.
