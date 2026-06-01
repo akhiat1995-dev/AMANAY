@@ -29,7 +29,7 @@ export default function Header() {
       }`}
     >
       <div className={`max-w-full mx-auto px-4 lg:px-10 xl:px-16 flex items-center justify-between transition-all duration-400 ${
-        scrolled ? 'h-16' : 'h-20'
+        scrolled ? 'h-12' : 'h-14'
       }`}>
         {/* Hamburger (mobile) */}
         <button

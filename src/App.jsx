@@ -128,7 +128,7 @@ function App() {
       <BackToTop />
       <Header />
 
-      <main className="pt-20">
+      <main className="pt-14">
         <div className="w-full h-[1px] bg-[#D4AF37]/30 shadow-[0_0_10px_rgba(212,175,55,0.2)]"></div>
         {/* ① Hero */}
         <div id="hero"><Hero /></div>
